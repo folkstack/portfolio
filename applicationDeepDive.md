@@ -1,31 +1,56 @@
-Jonathon Simpson  
+# Selected full stack applications, ML/AI Projects, and R&D
 
-**Music Programming Studio** (2026) [https://folkstack.com](https://folkstack.com)   
-A “live coding” environment, with Agent prompting to generate code that makes music.  The web app is loaded with tech and features, a high-performance audio engine, and an innovative UX for working with Agents. Backend with API for payments and registration, websockets for inference.    
-[Full studio demo](https://folkstack.com/studio.html)
+## At a glance
+* Audio, Time-series, and ML algorithms
+* Complex end-to-end applications and systems
+* Agent system development
+* LLM integrations
 
-“[Deep Learning Vitae](https://github.com/folkstack/deep_learning_vitae)” \- A repo documenting my “vectors” in Machine Learning
+### [Music Programming Studio](https://folkstack.com)
+* generates music from code
+* Integrated Agent prompting generates code that makes music.
+* Full of tech and features like WASM, multi-process audio engine, and code editor
+* provides a simple functional methods to program music (samples, notes, MIDI).
+* high-performance audio engine runs in real-time.
+* Innovative UX for working with AI (human in the loop)
+* Agent system prompt prepares the LLM to use the system and theory.
+* Backend with API for payments and registration; websockets for inference. 
+* [Full studio demo](https://folkstack.com/studio.html)
 
-"[JSYNTH\*](https://www.npmjs.com/search?q=jsynth)"—a base environment and dozens of modules for javascript audio synthesis in the browser, including real-time processing, web audio/DOM interaction, live code editors, effects, MIDI, digital synthesizers, and interfaces
+### [Deep Learning Vitae](https://github.com/folkstack/deep_learning_vitae)
+* A repo documenting my “vectors” in Machine Learning
 
-"[Chess Foo](https://github.com/NHQ/Chess)"—full stack web app, a websocket chess server and browser client;  features chat, and fun chess variations
+### [JSYNTH\*](https://www.npmjs.com/search?q=jsynth)
+* a base environment and dozens of modules for javascript audio synthesis in the browser
+*  Real-time audio synthesis and processing
+*  Used for web audio/DOM interaction, live code editors, effects, MIDI, digital synthesizers, and interfaces
 
-"[NetMorphic](https://github.com/NHQ/netmorphic-1)"—API testing framework, developed under contract for eBay, similar to “Chaos Monkey” at Netflix;  This is a distributed & parallel multi-tenant proxy for both TCP and HTTP that simulates problematic network (latency, etc)
+### [Chess Foo](https://github.com/NHQ/Chess)"
+* full stack web app
+* websocket game server and browser client
+* features chat, and fun chess variations
 
-**WebRTC Real-Time HIHFI Audio Streamer** [https://github.com/NHQ/webRTC-audio-streamer](https://github.com/NHQ/webRTC-audio-streamer)  
-Mobile first, international design, works in all browsers.    
-WASM Opus codec  
-WebRTC P2P broadcast  
-Listener Call-in  
-Host voice and audio file streaming
+### [NetMorphic](https://github.com/NHQ/netmorphic-1)
+* API testing framework, developed under contract for eBay, similar to “Chaos Monkey” at Netflix;
+* Distributed & parallel multi-tenant proxy for both TCP and HTTP that simulates problematic network (latency, etc)
 
-“[G-Tone](https://github.com/folkstack/g-tone/#g-tone-n-polyphonic-mod-synth-for-midi-keyboards)”— Fullstack Web App, High Performance real-time perfectly timed audio system, novel math and algorithms, novel modern web UI.  A Unique Musical Synthesizer for MIDI keyboards; pure algorithmic audio generation in javascript.
+### [WebRTC Real-Time HIHFI Audio Streamer](https://github.com/NHQ/webRTC-audio-streamer) 
+* Mobile first, international design, works in all browsers.    
+* WASM Opus codec  
+* WebRTC P2P broadcast  
+* Listener Call-in  
+* Streams host voice, callers, and audio files
+  
+### [G-Tone](https://github.com/folkstack/g-tone/#g-tone-n-polyphonic-mod-synth-for-midi-keyboards) 
+* Musical Synthesizer that uses Gaussian distributions to define tones.
+* High Performance real-time perfectly timed audio system, novel math and algorithms, novel modern web UI.
+* A Unique Musical Synthesizer for MIDI keyboards; pure algorithmic audio generation in javascript.
 
-**Artificial Intelligence and Machine Learning (AI/ML)**  
+## Artificial Intelligence and Machine Learning (AI/ML) 
 8+ Years industry-level research, testing and development of AI models, using frameworks,   
 data pipelines, Agent systems, plus novel and experimental deep learning R\&D. 
 
-**AI/ML Project Case Study \- Complete deep learning stack written by myself**  
+### AI/ML Project Case Study \- Complete deep learning stack written by myself 
 **Technologies**: Tensorflow, SQL, Node.js  
 **ML**: self attention, metaparameters, training, validation, inference, statistical analysis  
 * Self Attention Neural Network: [lines 71-120](https://github.com/folkstack/deep_learning_vitae/blob/master/trx.js#L71-L120); functional, layered style  
@@ -39,11 +64,8 @@ data pipelines, Agent systems, plus novel and experimental deep learning R\&D.
 * See Also: [Self-Attention Analyser](https://folkstack.github.io/art-of-inference/bezier-attention/) (2025, Agent generated)  
 * Further reference: [My Deep Learning Vitae](https://github.com/folkstack/deep_learning_vitae) (somewhat outdated)
 
-**Autocoding AI Agent (2025)**  
-	Technologies:
-
-* XML, Perl, Javascript, Bash, Linux, APIs, VMs   
-  Description:   
+### Autocoding AI Agent (2025) 
+* Tech: XML, Perl, Javascript, Bash, Linux, APIs, VMs   
 * Automatic code writing Agent.  
 * Uses a virtual machine to test code.  
 * Complex context awareness for multi-step inference.  
@@ -63,31 +85,27 @@ Provides Recurrent ([RNN](https://github.com/folkstack/various/blob/recent/topo.
 Has many very [useful utilities](https://github.com/folkstack/various/blob/recent/utils.js).  
 Validated by [passing MNIST](https://github.com/folkstack/mnist10k/tree/recent).
 
-**AI/ML research and development case study: Boltzmann Machines**  
+### AI/ML research and development case study: Boltzmann Machines 
 Cutting edge R\&D in Energy-Based Models, proof of concepts, and undocumented magic.  
 Entirely conceived and written by myself.  2020-ongoing.  
 See [Distributed Training of Boltzmann Machines](https://github.com/folkstack/distributed_training_boltzmann_machines/tree/next)
 
-**Time-Series and Forecasting Experience**  
+### Time-Series and Forecasting Experience
 Data Science Competitions \- I wrote a self-attention model, trained and backtested against historical data, optimized with trainable parametric statistical methods.  2020-2021.   
 Real time media and data modeling \- Quant Data, Digital SIgnal Processing, and real-time multimedia (audio and video streams)  
 Time series demand forecasting with Temporal Fusion Transformer ([pytorch forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html)) \-   
 See: [my google colab notebook and code](https://colab.research.google.com/drive/1RhtAletOw275wA5nzEtJuqpJSAw-6sSy)
 
-**Cloud Provisioning, Data Collection, Self-Hosting**  
+### Cloud Provisioning, Data Collection, Self-Hosting
 * Data collection from web and APIs using NodeJS, Linux, Bash, SQL  
 * Google Gemini SDK & Virtex, or direct TPU compute and Virtual Machines  
 * Training and inference with Open Source Models on-device or self-hosted servers
 
-**Content Generation, Music and Video Batch Streaming**  
+### Content Generation, Music and Video Batch Streaming
 * Many Open-Source A.I. models and LLM tested (i.e. invokeAI, flux-dev)  
 * Low Rank Adapter training (LORA)  
 * FFMPEG for selecting, modifying,  shaping, and batching streams: [code](https://github.com/folkstack/deep_learning_vitae/blob/master/videobs.js#L19)  
 * Digital Signal Processing
-
-**Career, Industry Experience, Occupational History**
-
-Application Publishing and Sales  
-Self; Los Angeles, 2023-2025  
-Product development.  
-Building apps, payment systems, and marketing automations.
+* Dozens of songs composed and publised with pure math and high level functional code
+* [music composed with maths and algorithsm](https://soundcloud.com/folkstack)
+* [Songs composed with Music Programming Studio using Agent AI](https://folkstack.com/blog/songs.html)
