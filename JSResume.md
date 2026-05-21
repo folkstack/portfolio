@@ -2,18 +2,18 @@
 *Contract Web Development, General Programming, and Systems Engineering 2013-2026*
 ***
 
-## Ebay, Inc; Network, API and Database Testing 
+## Ebay, Inc - Network, API and Database Testing 
 - Programmed a distributed, multi-tenant network proxy system in NodeJS
 - Wrote algorithms to simulate networking issues
 - Followed precise specification as directed by team lead
 - Demonstrated progress and completion to management
 
-## Samsung, Inc; Bluetooth Beacon Service and Application Design
+## Samsung, Inc - Bluetooth Beacon Service and Application Design
 - Developed geographical database 
 - Developed event and location service API
 - Designed front-end map interface for bluetooth beacons
 
-## Folkstack.com; full stack web and native application
+## Folkstack.com - full stack web and native application
 - Built server, API, SQL ORM, and payment processing system
 - Wrote system prompt for application Agent
 - Built front-end SPA with modern javascript and CSS, including:
@@ -25,22 +25,22 @@
 - Hosted on Linux VPS with NGINX
 - Created Windows, Mac, and Linux distributions with ElectronJS
 
-## PLDHomes; web development and hosting
+## PLDHomes - web development and hosting
 - Development Content Management System in NodeJS
 - Managed server and site on VPS (stable for 10 years)
 - Designed and developed real estate portfolio website
 
-## John McNiel Studio; Contract iPad Application Development
+## John McNiel Studio - Contract iPad Application Development
 - Optimized build for Xcode
 - Optimized user interface layout and page loading
 
-## National Headquarters, LLC; Contract web development services
+## National Headquarters, LLC - Contract web development services
 - Provided general web development for startups, small business and individuals
 - Designed and developed front-end UI using multiple frameworks (react/typescript, spring/angular, dart/flutter)
 - Hosted and developed content managements systems, wordpress sites, and forums software
 - Provided domain and email system services
 
-## Chessfoo.com; Full stack networked application development
+## Chessfoo.com - Full stack networked application development
 - Designed and built complete chess game
   - Game board UI and logic
   - Player chat UI and logic
