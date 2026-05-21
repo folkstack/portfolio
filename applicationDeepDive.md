@@ -20,12 +20,12 @@
 ### [Deep Learning Vitae](https://github.com/folkstack/deep_learning_vitae)
 * A repo documenting my “vectors” in Machine Learning
 
-### [JSYNTH\*](https://www.npmjs.com/search?q=jsynth)
+### [JSYNTH](https://www.npmjs.com/search?q=jsynth)
 * a base environment and dozens of modules for javascript audio synthesis in the browser
 *  Real-time audio synthesis and processing
 *  Used for web audio/DOM interaction, live code editors, effects, MIDI, digital synthesizers, and interfaces
 
-### [Chess Foo](https://github.com/NHQ/Chess)"
+### [Chess Foo](https://github.com/NHQ/Chess)
 * full stack web app
 * websocket game server and browser client
 * features chat, and fun chess variations
